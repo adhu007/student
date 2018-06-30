@@ -1,2 +1,3 @@
-#included<stdio.h>
+#included<iostream>
+
 
